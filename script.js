@@ -1,4 +1,4 @@
-// ******** reference ******** //
+// ******** references ******** //
 let searchForm = document.querySelector('.search-form');
 let shoppingCart = document.querySelector('.shopping-cart'); 
 let loginForm = document.querySelector('.login-form');
